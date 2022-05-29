@@ -24,38 +24,38 @@
 
 ## 01.城市分布
 
-![roadmap](PIC1/Rplot01_roadmap.jpg)
+![roadmap](Rplot01_roadmap.jpg)
 
 ## 02.公司行业
 
-![directors](PIC1/Rplot02_directors.png)
+![directors](Rplot02_directors.png)
 
-![managers/jobs\>=5](PIC1/Rplot02_managers.png)
+![managers/jobs\>=5](Rplot02_managers.png)
 
-![rest/jobs\>=50](PIC1/Rplot02_rest.png)
+![rest/jobs\>=50](Rplot02_rest.png)
 
 ## 03.公司规模
 
-![com_size](PIC1/Rplot03_com_size.png)
+![com_size](Rplot03_com_size.png)
 
 ## 04.工作经验
 
-![directors](PIC1/Rplot04_directors.png)
+![directors](Rplot04_directors.png)
 
-![managers](PIC1/Rplot04_managers.png)
+![managers](Rplot04_managers.png)
 
-![rest](PIC1/Rplot04_rest.png)
+![rest](Rplot04_rest.png)
 
 ## 05.学历要求
 
 高中这条是个例外，它来自广州的一家规模50人以下的公司招聘，主要靠提成，5万美金提成23000元人民币，可忽略。
 
-![education](PIC1/Rplot05_education.png)
+![education](Rplot05_education.png)
 
 ## 06.工作简述
 
-![directors](PIC1/Rplot06_directors.png)
+![directors](Rplot06_directors.png)
 
-![managers](PIC1/Rplot06_managers.png)
+![managers](Rplot06_managers.png)
 
-![rest](PIC1/Rplot06_rest.png)
+![rest](Rplot06_rest.png)
